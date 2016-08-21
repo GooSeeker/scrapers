@@ -20,6 +20,7 @@ Please help maintain alphabetical order.
 - [FiveFilters](#fivefilters) [(link)](http://fivefilters.org/)
 - [FMiner](#fminer) [(link)](http://www.fminer.com/)
 - [FullContact](#fullcontact) [(link)](http://fullcontact.com)
+- [GooSeeker](#GooSeeker) [(link)](http://www.gooseeker.com/land/python.html)
 - [Grabby](#grabby) [(link)](http://grabby.io)
 - [Import.io](#importio) [(link)](http://import.io)
 - [Kimonolabs](#kimonolabs) [(link)](http://kimonolabs.com)
@@ -199,6 +200,18 @@ such as Full-Text RSS and Term Extraction as services.
 **Cons**
 
 **Applicable Language(s)**
+
+---
+
+### [GooSeeker](http://www.gooseeker.com/land/python.html)
+
+**Description**: Having annotated a web page, an extractor is generated automatically. All are done in WYSIWYG mode. Thereafter the extractor can be fed into the GooSeeker crawler cluster for harvesting the web in bulk. Or it can be published through the API to third-party crawlers, e.g. Scrappy and other Python crawlers. The mobile apps can also import the extractor to mashup web content in real-time. The web harvest programers are released a lot from debugging the complicated extractors.
+
+**Pros**: The middle ware hides the operating systems, so GooSeeker can run over Windows, Mac OSX and Linux with consistent appearance. Coded in C++ guarantees the performance.
+
+**Cons**: A full-feature browser being embedded, GooSeeker is a heavy-weight scraper, which consumes more computer power.
+
+**Applicable Language(s)**: C++, JavaScript, Python
 
 ---
 
